@@ -62,7 +62,6 @@ Você pode rodar os arquivos localmente utilizando o Node.js. No terminal, digit
 node nome-do-arquivo.js
 ```
 Substitua o "nome-do-arquivo" conforme o exercício que deseja executar.
-Siga as instruções exibidas no terminal.
 
 # 👩‍💻 Desenvolvido por:
 
