@@ -1,0 +1,15 @@
+{
+  "name": "lista01-logica-js_codifica",
+  "version": "1.0.0",
+  "description": "Lista 01 com 15 exercícios de lógica de programação em JavaScript, desenvolvida durante o curso de formação Dev Full Stack Jr. da +PraTi &amp; Codifica. Os exercícios envolvem estruturas condicionais, laços de repetição e operações fundamentais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
